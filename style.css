@@ -38,6 +38,7 @@ html {
 .t1 {
     background-color: var(--Purple500);
     color: var(--White);
+  
 
     .dp{
     border: 2px solid var(--Purple300);
@@ -125,6 +126,14 @@ html {
 
     .tc1 {
         display: grid;
+    }
+
+    .t1 {
+          background-image: url("images/bg-pattern-quotation.svg");
+          background-repeat: no-repeat;
+          background-position: right;
+          background-position-y: 0;
+          background-position-x: 85%;
     }
 }
 
