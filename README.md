@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/faisalalmail/Testimonials-grid-section](https://github.com/faisalalmail/Testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://testimonials-grid-section-tau-lac.vercel.app/](https://testimonials-grid-section-tau-lac.vercel.app/)
 
 ### Built with
 
@@ -49,8 +49,6 @@ In this challenge, I went a step further and created a third view to match mid s
 ### Continued development
 
 I guess more responsive stuff!!
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
